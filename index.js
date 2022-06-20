@@ -19,46 +19,41 @@
 // const test = 12 
 // const bis = 5
 
-// const addition = test + bis
-// console.log(addition)
-
-// const soustraction = test - bis
-// console.log(soustraction)
-
-// const division = test / bis 
-// console.log(division)
-
-// const multiplication = test * bis 
-// console.log(multiplication)
-
-// const modulo = test % bis
-// console.log(modulo)
+// console.log(test + bis)
+// console.log(test - bis)
+// console.log(test / bis)
+// console.log(test * bis)
+// console.log(test % bis)
 
 // 05 - Reste division euclidienne
 //  const moduloOne = 999 % 1
 //  console.log(moduloOne)
 
-//  const moduloTwo = 25 % 1
+//  const moduloTwo = 999 % 3
 //  console.log(moduloTwo)
 
-//  const moduloThree = 25 % 5
+//  const moduloThree = 25 % 1
 //  console.log(moduloThree)
 
-// const moduloFour = 190280 % 1
+// const moduloFour = 25 % 5 
 // console.log(moduloFour)
 
-// const moduloFive = 190280 % 2
+// const moduloFive = 190280 % 1 
 // console.log(moduloFive)
 
-// const moduloSix = 190280 % 4
+// const moduloSix = 190280 % 2
 // console.log(moduloSix)
 
-// const moduloSeven = 190280 % 5
+// const moduloSeven = 190280 % 4 
 // console.log(moduloSeven)
 
-// const moduloEight = 47 % 1
+// const moduloEight = 190280 % 5 
 // console.log(moduloEight)
 
-// const moduloNine = 691 % 1
+// const moduloNine = 47 % 1 
 // console.log(moduloNine)
+
+//  const moduloTen= 691 % 1
+//  console.log(moduloTen)
+
 
